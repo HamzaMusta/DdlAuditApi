@@ -1,0 +1,6 @@
+@DdlAuditApi_HostAddress = http://localhost:5258
+
+GET {{DdlAuditApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
